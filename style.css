@@ -1,8 +1,12 @@
-.barras div{
+.barras{
 	font-size: 10px;
 	background-color: green;
 	text-align: right;
 	padding: 8px;
-	margin: 3px;
+	margin-right: 3px;
 	color: white;
+	width: 25px;
+	height: 100px;
+	margin-top: 2px;
+	display: inline-block;
 }
