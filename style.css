@@ -10,3 +10,30 @@
 	margin-top: 2px;
 	display: inline-block;
 }
+
+
+svg{
+	border: 1px solid #aaa;
+
+}
+
+rect{
+	fill: SteelBlue;
+}
+
+line{
+	stroke: purple;
+}
+
+text{
+	fill: gray;
+	font-size: 10px;
+	font-family: Helvetica;
+	text-anchor: middle;
+}
+
+circle{
+	fill: blue;
+	stroke: orange;
+	stroke-width: 5px;
+}

@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Juan",
+		"dato": 100
+	},
+	{
+		"name": "Oscar",
+		"dato": 25
+	},
+	{
+		"name": "Ramiro",
+		"dato": 30
+	},
+	{
+		"name": "Esteban",
+		"dato": 40
+	},
+	{
+		"name": "Jairo",
+		"dato": 50
+	}
+]
